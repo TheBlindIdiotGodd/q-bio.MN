@@ -1,8 +1,5 @@
 # q-bio.MN
 ---
-
-### Final Revision: Scientifically Polished Paper
-
 **Title:** **Bioelectric Modulation of DNA Glycosylation: A Pathway to Enhanced Synthetic Biology and Regenerative Medicine**
 
 **Abstract:**
